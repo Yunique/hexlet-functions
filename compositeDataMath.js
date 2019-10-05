@@ -1,7 +1,7 @@
 /* This program describes 3 functions: 
- * Get quadrant of point;
- * Get symmetrical point;
- * Calculate distance between two points. *\
+  Get quadrant of point;
+  Get symmetrical point;
+  Calculate distance between two points. *\
 
 import { makePoint, getX, getY } from '@hexlet/points'; // eslint-disable-line
 
